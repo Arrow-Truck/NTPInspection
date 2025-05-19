@@ -8,7 +8,6 @@
 <!- * Written by: m.samuel 7.9.2006                                   * ->
 <!- *                                                                 * ->
 <!- ******************************************************************* -> 
-<%@ page language="vb" debug="true" CompilerOptions='/R:"c:\program files (x86)\ibm\client access\IBM.Data.DB2.iSeries.dll"'%>
 
 <%@ Import NameSpace="IBM.Data.DB2.iseries" %>
 <%@ Import NameSpace="System.Data" %>
